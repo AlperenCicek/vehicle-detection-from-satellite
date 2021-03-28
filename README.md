@@ -18,23 +18,18 @@ https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc
 You can directly proceed to the training phase by using the datasets that I have prepared and labeled in the "annotations" folder before the relevant trainings. If you want to access the pictures in the dataset directly, you can contact me.
 
 
-Some of the screenshots taken while the project was running (Detection frames come from Webcam);
+Some of the screenshots taken while the project was running (Detection frames come from Simulation, Google Earth and Test Datasets);
 
 
-![#1](https://github.com/AlperenCicek/vehicle-detection-from-satellite/blob/main/example-images/1-min.png)
-![#2](https://github.com/AlperenCicek/vehicle-detection-from-satellite/blob/main/example-images/2-min.png)
-![#3](https://github.com/AlperenCicek/vehicle-detection-from-satellite/blob/main/example-images/3-min.png)
-![#4](https://github.com/AlperenCicek/vehicle-detection-from-satellite/blob/main/example-images/4-min.png)
-![#5](https://github.com/AlperenCicek/vehicle-detection-from-satellite/blob/main/example-images/5-min.png)
-![#6](https://github.com/AlperenCicek/vehicle-detection-from-satellite/blob/main/example-images/6-min.png)
-![#7](https://github.com/AlperenCicek/vehicle-detection-from-satellite/blob/main/example-images/7-min.png)
-![#8](https://github.com/AlperenCicek/vehicle-detection-from-satellite/blob/main/example-images/8-min.png)
-![#9](https://github.com/AlperenCicek/vehicle-detection-from-satellite/blob/main/example-images/9-min.png)
-![#10](https://github.com/AlperenCicek/vehicle-detection-from-satellite/blob/main/example-images/10-min.png)
-![#11](https://github.com/AlperenCicek/vehicle-detection-from-satellite/blob/main/example-images/11-min.png)
+![#1](https://github.com/AlperenCicek/vehicle-detection-from-satellite/blob/main/example-images/SS-28.03.2021-1-min.PNG)
+![#2](https://github.com/AlperenCicek/vehicle-detection-from-satellite/blob/main/example-images/SS-28.03.2021-2-min.PNG)
+![#3](https://github.com/AlperenCicek/vehicle-detection-from-satellite/blob/main/example-images/SS-28.03.2021-3-min.PNG)
+![#4](https://github.com/AlperenCicek/vehicle-detection-from-satellite/blob/main/example-images/SS-28.03.2021-4-min.PNG)
+![#5](https://github.com/AlperenCicek/vehicle-detection-from-satellite/blob/main/example-images/SS-28.03.2021-5-min.PNG)
+
 
 
 Some of screenshots taken from label process;
 
 
-![#12](https://github.com/AlperenCicek/vehicle-detection-from-satellite/blob/main/example-images/12-min.PNG)
+![#LabelProcessSS](https://github.com/AlperenCicek/vehicle-detection-from-satellite/blob/main/example-images/LabelProcessSS-min.PNG)
