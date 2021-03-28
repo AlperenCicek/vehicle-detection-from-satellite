@@ -2,7 +2,7 @@
 
 This repository covers vehicle detection on images taken from satellite.
 
-With The project I developed on Tensorflow 2.4 Object Detection API and Colab, you can detect and classify vehicle classes such as cars, vans, buses and trucks from satellite images!
+With The project I developed on Tensorflow 2.4 Object Detection API and Colab, you can detect and classify vehicle classes such as cars, minivans, vans, pickups, buses and trucks from satellite images!
 
 The links to the documentation that includes the necessary setups on behalf of Tensorflow and you will need if you want to do your training on Colab are as follows;
 

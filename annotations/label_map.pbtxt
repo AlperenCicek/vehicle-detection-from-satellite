@@ -4,13 +4,21 @@ item {
 }
 item {
   id: 2
-  name: 'van'
+  name: 'minivan'
 }
 item {
   id: 3
-  name: 'truck'
+  name: 'van'
 }
 item {
   id: 4
+  name: 'pickup'
+}
+item {
+  id: 5
   name: 'bus'
+}
+item {
+  id: 6
+  name: 'truck'
 }
