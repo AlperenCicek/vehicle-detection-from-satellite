@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Yeni klasör</folder>
+	<folder>6classes</folder>
 	<filename>24.jpg</filename>
-	<path>C:\Users\Alperen\Desktop\SatelliteImages\Colored\Yeni klasör\24.jpg</path>
+	<path>C:\Users\Alperen\Desktop\Tez\SatelliteImages\Colored\6classes\24.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -96,15 +96,15 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>car</name>
+		<name>minivan</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>155</xmin>
+			<xmin>154</xmin>
 			<ymin>547</ymin>
-			<xmax>167</xmax>
-			<ymax>577</ymax>
+			<xmax>168</xmax>
+			<ymax>578</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -115,8 +115,8 @@
 		<bndbox>
 			<xmin>172</xmin>
 			<ymin>527</ymin>
-			<xmax>191</xmax>
-			<ymax>579</ymax>
+			<xmax>188</xmax>
+			<ymax>578</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -132,7 +132,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>car</name>
+		<name>minivan</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -156,7 +156,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>van</name>
+		<name>truck</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -180,7 +180,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>car</name>
+		<name>minivan</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -192,7 +192,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>van</name>
+		<name>minivan</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -228,7 +228,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>car</name>
+		<name>minivan</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -288,15 +288,15 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>van</name>
+		<name>minivan</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>553</xmin>
-			<ymin>10</ymin>
+			<ymin>9</ymin>
 			<xmax>590</xmax>
-			<ymax>27</ymax>
+			<ymax>26</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -432,15 +432,15 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>van</name>
+		<name>truck</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>700</xmin>
+			<xmin>698</xmin>
 			<ymin>311</ymin>
 			<xmax>719</xmax>
-			<ymax>360</ymax>
+			<ymax>362</ymax>
 		</bndbox>
 	</object>
 	<object>

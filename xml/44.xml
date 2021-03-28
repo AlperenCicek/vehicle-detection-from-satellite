@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Colored</folder>
+	<folder>6classes</folder>
 	<filename>44.jpg</filename>
-	<path>C:\Users\Alperen\Desktop\SatelliteImages\Colored\44.jpg</path>
+	<path>C:\Users\Alperen\Desktop\Tez\SatelliteImages\Colored\6classes\44.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -108,7 +108,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>car</name>
+		<name>minivan</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -120,7 +120,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>car</name>
+		<name>minivan</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -240,7 +240,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>car</name>
+		<name>minivan</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -360,7 +360,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>car</name>
+		<name>minivan</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -408,7 +408,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>car</name>
+		<name>minivan</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -444,7 +444,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>car</name>
+		<name>minivan</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -528,7 +528,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>car</name>
+		<name>minivan</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -564,7 +564,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>car</name>
+		<name>minivan</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -648,7 +648,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>car</name>
+		<name>minivan</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -672,7 +672,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>car</name>
+		<name>minivan</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -684,7 +684,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>car</name>
+		<name>minivan</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -696,7 +696,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>car</name>
+		<name>van</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -708,7 +708,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>car</name>
+		<name>minivan</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -756,7 +756,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>car</name>
+		<name>minivan</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -792,7 +792,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>car</name>
+		<name>minivan</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -804,7 +804,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>car</name>
+		<name>minivan</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -1044,7 +1044,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>car</name>
+		<name>minivan</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -1068,7 +1068,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>car</name>
+		<name>minivan</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -1080,7 +1080,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>car</name>
+		<name>minivan</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -1128,7 +1128,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>car</name>
+		<name>minivan</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>

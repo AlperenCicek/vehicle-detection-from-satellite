@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Colored</folder>
+	<folder>6classes</folder>
 	<filename>7.jpg</filename>
-	<path>C:\Users\Alperen\Desktop\SatelliteImages\Colored\7.jpg</path>
+	<path>C:\Users\Alperen\Desktop\Tez\SatelliteImages\Colored\6classes\7.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -60,13 +60,13 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>car</name>
+		<name>minivan</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>837</xmin>
-			<ymin>22</ymin>
+			<ymin>24</ymin>
 			<xmax>852</xmax>
 			<ymax>56</ymax>
 		</bndbox>
@@ -396,7 +396,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>car</name>
+		<name>minivan</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>

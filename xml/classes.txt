@@ -1,0 +1,6 @@
+car
+van
+minivan
+pickup
+bus
+truck

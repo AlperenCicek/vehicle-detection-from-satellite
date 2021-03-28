@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Colored</folder>
+	<folder>6classes</folder>
 	<filename>13.jpg</filename>
-	<path>C:\Users\Alperen\Desktop\SatelliteImages\Colored\13.jpg</path>
+	<path>C:\Users\Alperen\Desktop\Tez\SatelliteImages\Colored\6classes\13.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -48,7 +48,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>car</name>
+		<name>minivan</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -120,7 +120,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>car</name>
+		<name>minivan</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -324,7 +324,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>car</name>
+		<name>minivan</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -372,7 +372,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>car</name>
+		<name>minivan</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -462,7 +462,7 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>610</xmin>
-			<ymin>772</ymin>
+			<ymin>777</ymin>
 			<xmax>630</xmax>
 			<ymax>819</ymax>
 		</bndbox>
@@ -564,7 +564,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>car</name>
+		<name>minivan</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -585,6 +585,18 @@
 			<ymin>404</ymin>
 			<xmax>601</xmax>
 			<ymax>422</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>583</xmin>
+			<ymin>116</ymin>
+			<xmax>596</xmax>
+			<ymax>146</ymax>
 		</bndbox>
 	</object>
 </annotation>
