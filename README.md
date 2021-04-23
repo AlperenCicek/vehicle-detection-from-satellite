@@ -12,6 +12,10 @@ https://github.com/AlexeyAB/darknet
 
 https://medium.com/swlh/tensorflow-2-object-detection-api-with-google-colab-b2af171e81cc
 
+Those who want to use YOLOv3 - YOLOv4 can follow this tutorial.
+
+https://github.com/AlexeyAB/darknet
+
 
 Also I used Faster R-CNN ResNet50 V1 640x640 as model on this project. If you want use another model from modelzoo, You can download from this link;
 
